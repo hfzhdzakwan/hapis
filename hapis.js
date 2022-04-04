@@ -4803,7 +4803,7 @@ break
               break
                 case 'xnxx':
               if (!isRegist) return freply(mess.regist)
-              if (isDewasa) return freply(mess.dewasa)
+
               if (isBanned) return freply(mess.banned)
               if (!isPremium) return freply(mess.premium)
                     if (args.length == 0) return freply(`Contoh: ${prefix + command} https://www.xnxx.com/video-uy5a73b/mom_is_horny_-_brooklyn`)
